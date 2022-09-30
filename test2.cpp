@@ -1,4 +1,4 @@
-#include "codfunc.h"
+#include "Mylang.h"
 start();
 read(var(0));
 read(var(1));
