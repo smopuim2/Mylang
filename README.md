@@ -1,3 +1,6 @@
 # Mylang
 My first programming language,
 Using C++ macros...
+Why not build the compiler from scratch?
+1. Easy(~~lazy?~~)...
+2. Don't need to build a big program.
